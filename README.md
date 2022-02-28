@@ -33,7 +33,7 @@
   - qwiklabs [https://www.qwiklabs.com/public_profiles/09aff189-fdef-4e83-be20-dc25c605ac34](https://www.qwiklabs.com/public_profiles/09aff189-fdef-4e83-be20-dc25c605ac34) 
 
 
-- ⚡ Fun fact **I like to play basketball/tennis, eat good food, watch NFL, NBA and MLB games. Hiking in the weekend. Play Chess and video games. Love puppies.**
+- ⚡ Fun fact **I like to photography, eat good food, watch inreresting series, and good quality movies. Coding in the weekend. Play Chess and video games. Love cats.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eya ABID.</h1>
-<h3 align="center">A passionate AI🧠/ML👨‍💻, Data 📊, Computer Vision 🏴, and performance 💯 Computer Engineering Student 👨‍🔧 from San Tunis 🌉, Tunisia. </h3>
+<h3 align="center">A passionate AI🧠/ML👨‍💻, Data 📊, Computer Vision 🏴, and performance 💯 Computer Engineering Student 👨‍🔧 from Tunis 🌉, Tunisia. </h3>
 <h3 align="center">NVIDIA DLI Certified Accelerated Artificial Intelligence Instructor, Microsoft Certified Azure in Data Engineering and AI. </h3>
 <h3 align="center">Machine Learning Instructor. Hackathon Winner, ZINDI Ambassador, Head of ML Department at Google Dev Student Clubs, Speaker, Mentor, Coach, Writer. </h3>
 <h4 align="center">Opinions are my own and not the views of my employer.</h4>

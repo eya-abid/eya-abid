@@ -42,7 +42,7 @@
 <h3 align="left">Certificates and Badges:</h3>
 
 
-<a href="https://github.com/eya-abid/leewalter/blob/main/aaa_001.png" target="blank"><img align="center" src="https://github.com/eya-abid/leewalter/blob/main/aaa_001.png" alt="Certificates and Badges" height="1200" width="1200" /></a>
+<a href="https://github.com/eya-abid/eya-abid/blob/main/certificates.png" target="blank"><img align="center" src="https://github.com/eya-abid/eya-abid/blob/main/certificates.png" alt="Certificates and Badges" height="600" width="600" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
